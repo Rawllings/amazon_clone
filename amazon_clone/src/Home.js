@@ -15,11 +15,20 @@ function Home() {
         <div className="home__row">
           {/* 2 cards  */}
           <Product />
+          <Product />
         </div>
 
-        <div className="home__row">{/* 3 cards  */}</div>
+        <div className="home__row">
+          {/* 3 cards  */}
+          <Product />
+          <Product />
+          <Product />
+        </div>
 
-        <div className="home__row">{/* 1 card  */}</div>
+        <div className="home__row">
+          {/* 1 card  */}
+          <Product />
+        </div>
       </div>
     </div>
   );
