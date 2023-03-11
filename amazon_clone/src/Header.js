@@ -25,7 +25,7 @@ function Header() {
           alt="Amazon-logo"
         />
       </Link>
-      ...state
+
       {/* SEARCHBAR  */}
       <div className="header__search ">
         <input className="header_searchInput" type="text" />
